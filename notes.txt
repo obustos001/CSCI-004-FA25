@@ -2,4 +2,8 @@ I imported the array library.
 Now I want to use it.
 I signified that "arr1" is the "array[1, 2, 3]"
 Once I made an array essentially "named 'arr1'", then I printed "arr1" to make sure I did it correctly. 
-And it printed correctly. -
+And it printed correctly. 
+
+I now made "list100" and signified what it meant.
+I used characters and numbers in my list, basially signifing the differnce between a list and an array.
+Then I successfully printed my "list100" list. :)
