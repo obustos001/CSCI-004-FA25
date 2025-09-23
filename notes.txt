@@ -1,0 +1,5 @@
+I imported the array library. 
+Now I want to use it.
+I signified that "arr1" is the "array[1, 2, 3]"
+Once I made an array essentially "named 'arr1'", then I printed "arr1" to make sure I did it correctly. 
+And it printed correctly. -
