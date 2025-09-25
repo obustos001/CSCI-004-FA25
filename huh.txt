@@ -1,0 +1,2 @@
+homework information that is due Sep 30th
+create 3 functions on paper, define types in the functions, use them in python, use your notes as you think and write down things, write down everything you think the way you thoguht it.
