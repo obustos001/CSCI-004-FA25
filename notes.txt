@@ -2,8 +2,14 @@ I imported the array library.
 Now I want to use it.
 I signified that "arr1" is the "array[1, 2, 3]"
 Once I made an array essentially "named 'arr1'", then I printed "arr1" to make sure I did it correctly. 
-And it printed correctly. 
+And then while I printed "print(arr1) the output was array.array[1, 2, 3].
 
-I now made "list100" and signified what it meant.
+I now made a list named"list100" and signified what it meant in brakets as follows "['o', 'm', 'a', 'r', 'loves_evan']".
 I used characters and numbers in my list, basially signifing the differnce between a list and an array.
-Then I successfully printed my "list100" list. :)
+Then I successfully printed my "list100" list by typing the following "print(list100).
+The output of my list was "['o', 'm', 'a', 'r', 'loves_evan']"
+
+
+A collection is a group of like things.
+Hence, a bunch of organized (logical or non-logical way) in some manner or nothing.
+
