@@ -1,0 +1,3 @@
+I made an empty stack just to define it.
+I named the stack "stack" but it was emtpy.
+Then I continued to add three 
