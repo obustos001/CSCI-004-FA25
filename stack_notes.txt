@@ -1,3 +1,17 @@
-I made an empty stack just to define it.
-I named the stack "stack" but it was emtpy.
-Then I continued to add three 
+I simply made an empty stack. I needed to make this because if not then I would have nothing to work with in the following lines.
+After I made the stack, I now needed to add things to the stack.
+So in "def push(stack, element)" I made a function and named it "push".
+It kind of works like a little machine, I give it something and it gives me something in return.
+When I wrote down "stack.append(element)" I was just saying to put something on the very top of the stack. "append" in my knowledge essentially says "add".
+Then I wrote "return stack" which is essentially saying to pythong to give me now the stack but with the new item added.
+
+Then I wrote "def pop(stack) == 0:" and "return "Stack is empty" because if the stack is equal to 0, then there is no possible way that python would be able to "pop" or take something out of a stack that has nothing in it.
+After that I wrote "return stack.pop()" and this would take out or "pop" or take out the top item in the list. And in a stack, the "last thing" is the top of the stack. 
+
+After all that, I just want to know how many items are in my stack.
+So I created another function named "size" and inputted "stack" as shown right here -> "size(stack):". 
+Inside that function I said "return len(stack)". From my understanding, "len" essentially counts the indexes in my list. So if I have numbers from 1-20 in my list, it would count 19 indexes.
+I like len because it will not say "you have 20 numbers" (per say) rather it will count the "digits" or indexes of my whole list and then give me a total number.
+
+Summing everything up, using this would (in my opinion (and hopefully im right because I need a good grade) and from what I've learned) be using a stack in python.
+I did not use it, I simply gave the logic of it for it to be used for a different purpose.
